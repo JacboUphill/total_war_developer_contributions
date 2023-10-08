@@ -1,0 +1,5 @@
+bs4
+kaleido
+lxml
+matplotlib-venn
+plotly
